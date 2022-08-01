@@ -16,6 +16,7 @@ package com.spring.di.interfaceEx;
  *   
  * */
 
+
 interface Person {}
 
 class Manager  implements Person{}
